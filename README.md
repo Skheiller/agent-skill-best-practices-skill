@@ -34,12 +34,6 @@ That file captures the standards used to shape this skill, including official do
 - Validation result
 - Residual-risk statement
 
-## Validation
-
-```bash
-python3 /Users/lmostafa/.codex/skills/.system/skill-creator/scripts/quick_validate.py .
-```
-
 ## License
 
 MIT
