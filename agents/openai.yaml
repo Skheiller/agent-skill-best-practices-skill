@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Quality Coach"
+  short_description: "Upgrade SKILL.md quality, safety, and portability"
+  default_prompt: "Use $agent-skill-best-practices to audit and improve this skill to production quality."
